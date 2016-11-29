@@ -6,7 +6,7 @@ The goal is to demonstrate how to use angr through a series of examples
 
 1. Symbolizing cmd-line arguments (args)
 2. Symbolizing a single integer (???)
-2. Symbolizing a single string (bomb/phase1)
+2. Symbolizing a single string (bomb32/phase1)
 3. Symbolizing function arguments (???)
 4. Symbolizing user input (???)
   1. sscanf
