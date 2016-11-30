@@ -2,7 +2,7 @@
 Some samples from playing with [angr](https://github.com/angr/angr)
 
 ## Roadmap:
-The goal is to demonstrate how to use angr through a series of examples
+The goal is to demonstrate angr's use through a series of examples
 
 1. Symbolizing cmd-line arguments (args)
 2. Symbolizing a single integer (magic_number)
