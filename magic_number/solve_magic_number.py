@@ -1,5 +1,6 @@
 import angr
 
+# This is the address right after the call to atoi()
 BEFORE_IS_MAGICAL_CALL_ADDR = 0x080484B9
 FIND_ADDR = 0x080484CE
 AVOID_ADDR = 0x080484E0
