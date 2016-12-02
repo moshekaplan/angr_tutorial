@@ -10,5 +10,5 @@ The goal is to demonstrate [angr](https://github.com/angr/angr)'s use through a 
 4. Symbolizing user input (???)
   1. sscanf()
   2. gets()
-5. Examining user output (??? state.posix.dumps(1) )
-6. Symbolizing files
+5. Examining user output (??? state.posix.dumps(1) ?? )
+6. Symbolizing files (?? https://docs.angr.io/docs/toplevel.html ??)
