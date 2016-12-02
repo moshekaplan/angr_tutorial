@@ -1,5 +1,5 @@
 # angr_tutorial
-The goal is to demonstrate [angr](https://github.com/angr/angr)'s use through a series of examples
+The goal is to demonstrate [angr](https://github.com/angr/angr)'s usage through a series of examples
 
 1. Symbolizing cmd-line arguments (See `args`)
 2. Symbolizing a single integer (See `magic_number`'s `symbolize_int()` )
