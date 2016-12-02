@@ -15,3 +15,9 @@ The goal is to demonstrate [angr](https://github.com/angr/angr)'s usage through 
   1. Based on a specific register or memory values
   2. Based on user output (??? state.posix.dumps(1) ?? )
 6. Symbolizing files (?? https://docs.angr.io/docs/toplevel.html ??)
+7. Using state constraints
+  1. https://github.com/angr/angr-doc/blob/master/examples/google2016_unbreakable_0/solve.py
+  2. https://github.com/angr/angr-doc/blob/master/examples/google2016_unbreakable_1/solve.py
+  3. https://github.com/angr/angr-doc/blob/master/examples/whitehatvn2015_re400/solve.py
+8. Using hooks
+  1. https://github.com/angr/angr-doc/blob/master/examples/ekopartyctf2015_rev100/solve.py
