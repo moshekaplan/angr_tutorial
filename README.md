@@ -9,7 +9,7 @@ The goal is to demonstrate [angr](https://github.com/angr/angr)'s usage through 
     2. via `stack_push(symbol)` (See `magic_number`'s `symbolize_stack_param()`)
 4. Symbolizing user input
   1. read() (?? https://github.com/angr/angr-doc/blob/master/examples/fauxware/fauxware.c ??)
-  2. sscanf()
+  2. scanf() (?? https://github.com/angr/angr-doc/blob/master/examples/defcon2016quals_baby-re_1/solve.py ??)
   3. gets()
 5. Using alternate success conditions
   1. Based on a specific register or memory values
