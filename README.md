@@ -1,7 +1,7 @@
 # angr_tutorial
 The goal is to demonstrate [angr](https://github.com/angr/angr)'s usage through a series of examples
 
-1. Symbolizing cmd-line arguments (See `args`)
+1. Symbolizing cmd-line arguments (See `args`, [fairlight](https://github.com/angr/angr-doc/tree/master/examples/securityfest_fairlight))
 2. Symbolizing a single integer (See `magic_number`'s `symbolize_int()` )
 2. Symbolizing a single string (See `bomb32/phase1`)
 3. Symbolizing function arguments
