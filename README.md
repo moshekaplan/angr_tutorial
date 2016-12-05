@@ -3,7 +3,7 @@ The goal is to demonstrate [angr](https://github.com/angr/angr)'s usage through 
 
 1. Running angr
   1. https://github.com/angr/angr-doc/blob/master/examples/CSCI-4968-MBE/challenges/crackme0x00a/solve.py
-  1. https://github.com/angr/angr-doc/blob/master/examples/CSCI-4968-MBE/challenges/crackme0x04/solve.py
+  1. https://github.com/angr/angr-doc/blob/master/examples/CSCI-4968-MBE/challenges/crackme0x04/solve.py ( and see https://github.com/angr/angr-doc/blob/2d45c9e6d9f91e83988719aa19940aec2cfd8747/docs/analyses/cfg_accurate.md#function-manager )
 1. Symbolizing cmd-line arguments
   1. See `args`
   2. [fairlight](https://github.com/angr/angr-doc/tree/master/examples/securityfest_fairlight)
